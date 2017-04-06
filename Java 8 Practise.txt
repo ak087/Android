@@ -1,0 +1,33 @@
+1.Create a List of String and add some values(Ensure that you may know the ways to initialize the list) 
+  Create a Stream for the list and try to append one value(string) to the list.(You should know why you want to create Stream for List).
+  Collect the Whole list as a string using stream opeartion and print.
+
+
+2.Create a List of Integers and add some values(Ensure that you may know the ways to initialize the list).
+  And Try to sum up the values by using Stream Operation.
+  Print the sum.
+
+
+3.Create a List of Strings and Iterate the list (using Stream) and break the loop if it reaches the half the size of the list.
+
+
+4.Create a List (any primitive types) , and Collect the values in the even index of the list and Store it in the sepeare list.
+[USING STREAMS]
+
+
+5.Create a List of Strings[repetitive strings]
+  eg["Apple","Apple","Lenovo","Samsung","Google","Lenovo"]
+  Using Streams I want to print like below (Opeartion should be in a single pipeline)
+  {Apple = 2, Lenovo =2 ,Samsung=1,Google=1}
+
+
+6.Create a List of String
+   eg ["Apple","Samsung","Google","Lenovo"]
+   Form a separate List which does not contain in it USING STREAMS and return the list.
+
+
+
+
+Ref:
+https://www.mkyong.com/java8/java-8-collectors-groupingby-and-mapping-example/
+ 

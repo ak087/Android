@@ -1,0 +1,50 @@
+1.Create a List of Integers and add some values(Ensure that you may know the ways to initialize the list).
+  And Try to sum up the values.
+  Print the sum.
+
+
+2.Create a List of Strings and Iterate the list and break the loop if it reaches the half the size of the list.
+
+
+3.Create a List (any primitive types) , and Collect the values in the even index of the list and Store it in the sepeare list.
+
+
+
+4.Create a List of Strings[repetitive strings]
+  eg["Apple","Apple","Lenovo","Samsung","Google","Lenovo"]
+. Print Values like given below 
+{Apple = 2, Lenovo =2 ,Samsung=1, Google=1}
+
+
+5.Create a List of String
+   eg ["Apple","Samsung","Google","Lenovo"]
+   Form a separate List which does not contain "Apple" in it and return the list.
+
+
+
+
+
+
+6.create Map and insert some values into it and print it
+
+7 Do fibonacci series using Map of length 10.
+
+8 create 2 maps and compare them.
+
+9 store the details of 6 employees (EmployeeId, Name, Project, Pmo). retrieve only employee Id from above and form list and print the sorted list. 
+
+10 create a Map and insert both integers and Strings into it.
+
+11 create a list with duplicate values (1,2,2,2,4,4,5) and form a new list by removing duplicate values (1,2,4,5) and sort it.
+
+12 Create a List of integers and print the values reversly using for-each iterator. 
+
+13 create 2 Lists of strings with some common values and merge them to a new list without having duplicates.
+
+14 Create a Regular expression which accepts only our Employee-Id (Eg. P-1990)
+
+15 Print Date in 5 different formats
+	(Eg. DD/MM/YYYY, MM/DD/YYYY)
+   
+Refer tutorailspoint and docs.oracle.com for detailed explanation.
+java tutorialpoint
